@@ -1,0 +1,12 @@
+export {default as HomePage} from './HomePage';
+export {default as AboutUs} from './AboutUs';
+export {default as ServicesPage} from './ServicesPage';
+export {default as SustainabilityPage} from './SustainabilityPage';
+export {default as LithiumPage} from './LithiumPage';
+export {default as GoldPage} from './GoldPage';
+export {default as Assets} from './Assets';
+export {default as Reports} from './Reports';
+export {default as Contact} from './Contact';
+export {default as Careers} from './Careers';
+export {default as Team} from './Team';
+export {default as Contract} from './Contract';

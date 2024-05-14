@@ -1,0 +1,12 @@
+export {default as Heros} from './Heros';
+export {default as Services} from './Services';
+export {default as WhoWeAre} from './WhoWeAre';
+export {default as ExtraInfo} from './ExtraInfo';
+export {default as TheTeam} from './TheTeam';
+export {default as Approach} from './Approach';
+export {default as Products} from './Products';
+export {default as WhyUs} from './WhyUs';
+export {default as JobSection} from './JobSection';
+export {default as News} from './News';
+export {default as Footer} from './Footer';
+export {default as ServicesHero} from './ServicesHero';
